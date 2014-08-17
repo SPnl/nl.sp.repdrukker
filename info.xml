@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<extension key="nl.sp.repdrukker" type="report">
+  <file>repdrukker</file>
+  <name>Rapport - Drukker</name>
+  <description>Overzicht van alle leden die een tribune bezorgd moeten krijgen</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Delano de Rooij</author>
+    <email>delano.derooij@civicoop.org</email>
+  </maintainer>
+  <releaseDate>2014-07-31</releaseDate>
+  <version>1.0</version>
+  <develStage>beta</develStage>
+  <compatibility>
+    <ver>4.2</ver>
+  </compatibility>
+  <comments></comments>
+  <civix/>
+  <typeInfo>
+    <component>CiviMember</component>
+    <reportUrl>nl.sp.repdrukker</reportUrl>
+  </typeInfo>
+</extension>
